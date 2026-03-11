@@ -4,6 +4,9 @@
 venv/
 env/
 
+# Streamlit secrets (real — not the template)
+.streamlit/secrets.toml
+
 # Python
 __pycache__/
 *.py[cod]
