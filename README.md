@@ -157,6 +157,8 @@ groq
 ddgs
 python-dotenv
 ```
+##Output
+<img width="1920" height="1344" alt="image" src="https://github.com/user-attachments/assets/fee37bff-6f6a-4a3d-be85-5052b28444f2" />
 
 ---
 
