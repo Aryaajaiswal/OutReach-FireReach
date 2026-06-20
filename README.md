@@ -157,12 +157,23 @@ groq
 ddgs
 python-dotenv
 ```
-##Output
-<img width="1920" height="1344" alt="image" src="https://github.com/user-attachments/assets/fee37bff-6f6a-4a3d-be85-5052b28444f2" />
-<img width="1873" height="871" alt="image" src="https://github.com/user-attachments/assets/3245d825-61df-4b10-8a38-a08377c474b6" />
-<img width="1849" height="885" alt="image" src="https://github.com/user-attachments/assets/6d2fa60e-052d-455c-808a-b47c16d13c49" />
-<img width="1860" height="868" alt="image" src="https://github.com/user-attachments/assets/c41ecdf5-2af6-4a87-b6e4-274963cd2f4f" />
-<img width="1675" height="469" alt="image" src="https://github.com/user-attachments/assets/66c5e168-b1c8-4637-a209-09553efe3ef7" />
+
+## Output
+
+**Figure 1: Control Panel & ICP Configuration**
+<img width="1920" height="1344" alt="Control Panel & ICP Configuration" src="https://github.com/user-attachments/assets/fee37bff-6f6a-4a3d-be85-5052b28444f2" />
+
+**Figure 2: Live Signal Harvesting**
+<img width="1873" height="871" alt="Live Signal Harvesting" src="https://github.com/user-attachments/assets/3245d825-61df-4b10-8a38-a08377c474b6" />
+
+**Figure 3: Account Brief Generation**
+<img width="1849" height="885" alt="Account Brief Generation" src="https://github.com/user-attachments/assets/6d2fa60e-052d-455c-808a-b47c16d13c49" />
+
+**Figure 4: Generated Cold Email**
+<img width="1860" height="868" alt="Generated Cold Email" src="https://github.com/user-attachments/assets/c41ecdf5-2af6-4a87-b6e4-274963cd2f4f" />
+
+**Figure 5: Email Dispatch Status**
+<img width="1675" height="469" alt="Email Dispatch Status" src="https://github.com/user-attachments/assets/66c5e168-b1c8-4637-a209-09553efe3ef7" />
 
 ---
 
